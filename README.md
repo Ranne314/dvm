@@ -35,6 +35,12 @@ start %TEMP%\windows.bat
 ```
 ---
 
+## ✅ Check if installed
+
+```
+echo $dvm
+```
+
 ## 📜 License
 
 This project is licensed under the BSD 3-Clause License. See [`LICENSE`](LICENSE) for full details.
