@@ -38,7 +38,7 @@ start %TEMP%\windows.bat
 ## ✅ Check if installed
 
 ```
-echo $dvm
+echo $DVM
 ```
 
 ## 📜 License
